@@ -1,0 +1,23 @@
+{
+  "oefeningen": [
+    { "id": 1, "naam": "Bench Press", "spiergroep": "Borst", "moeilijkheid": "Gemiddeld", "sets": 4, "herhalingen": 8, "uitrusting": "Barbell" },
+    { "id": 2, "naam": "Squat", "spiergroep": "Benen", "moeilijkheid": "Gemiddeld", "sets": 4, "herhalingen": 10, "uitrusting": "Barbell" },
+    { "id": 3, "naam": "Deadlift", "spiergroep": "Rug", "moeilijkheid": "Moeilijk", "sets": 3, "herhalingen": 6, "uitrusting": "Barbell" },
+    { "id": 4, "naam": "Pull-up", "spiergroep": "Rug", "moeilijkheid": "Gemiddeld", "sets": 3, "herhalingen": 10, "uitrusting": "Pull-up bar" },
+    { "id": 5, "naam": "Overhead Press", "spiergroep": "Schouders", "moeilijkheid": "Gemiddeld", "sets": 4, "herhalingen": 8, "uitrusting": "Barbell" },
+    { "id": 6, "naam": "Bicep Curl", "spiergroep": "Armen", "moeilijkheid": "Makkelijk", "sets": 3, "herhalingen": 12, "uitrusting": "Dumbbell" },
+    { "id": 7, "naam": "Tricep Dip", "spiergroep": "Armen", "moeilijkheid": "Gemiddeld", "sets": 3, "herhalingen": 12, "uitrusting": "Dip bar" },
+    { "id": 8, "naam": "Leg Press", "spiergroep": "Benen", "moeilijkheid": "Makkelijk", "sets": 4, "herhalingen": 12, "uitrusting": "Machine" },
+    { "id": 9, "naam": "Lat Pulldown", "spiergroep": "Rug", "moeilijkheid": "Makkelijk", "sets": 3, "herhalingen": 12, "uitrusting": "Machine" },
+    { "id": 10, "naam": "Romanian Deadlift", "spiergroep": "Benen", "moeilijkheid": "Gemiddeld", "sets": 3, "herhalingen": 10, "uitrusting": "Barbell" },
+    { "id": 11, "naam": "Cable Fly", "spiergroep": "Borst", "moeilijkheid": "Makkelijk", "sets": 3, "herhalingen": 15, "uitrusting": "Machine" },
+    { "id": 12, "naam": "Face Pull", "spiergroep": "Schouders", "moeilijkheid": "Makkelijk", "sets": 3, "herhalingen": 15, "uitrusting": "Machine" }
+  ],
+  "spiergroepen": [
+    { "id": 1, "naam": "Borst", "primaire_spier": "Pectoralis Major", "training_freq": "2x per week" },
+    { "id": 2, "naam": "Rug", "primaire_spier": "Latissimus Dorsi", "training_freq": "2x per week" },
+    { "id": 3, "naam": "Benen", "primaire_spier": "Quadriceps", "training_freq": "2x per week" },
+    { "id": 4, "naam": "Schouders", "primaire_spier": "Deltoideus", "training_freq": "2x per week" },
+    { "id": 5, "naam": "Armen", "primaire_spier": "Biceps Brachii", "training_freq": "1-2x per week" }
+  ]
+}
